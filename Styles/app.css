@@ -1,0 +1,197 @@
+/*
+nombre del atributo{
+ atributo: valor
+}
+*/
+/* *{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Ranga', cursive;
+} */
+/* body {
+    text-align: center;
+    font-family: 'Cute Font', cursive;
+}
+header{
+    background-color: blue
+}
+nav{
+    background-color: #ff0000
+}
+section{
+    background-color: rgb(255, 33, 33)
+}
+aside{
+    background-color: rebeccapurple
+}
+footer{
+    font-family: 'Ramabhadra', sans-serif;
+    color:  #1507da;
+    background-color: #dddddd;
+}
+article{
+    background: #fffbcc;
+    border: 1px solid #999999;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+article footer{
+    text-align: rigth;
+}
+#titulo{
+    color: #000000;
+    font: bold 36px verdana, sans-serif;
+    text-shadow: rgb(0,0,150) px 3px 5px;
+}
+time{
+    color: #999999;
+}
+figcaption{
+    font: italic 14px verdana, sans-sherif;
+}
+div{
+    width: 100px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #000000;
+
+    -moz-box-sizing:  border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#agrupar{
+    width: 960px;
+    margin: 15px auto;
+    text-align: left;
+}
+#cabecera{
+
+background: #fffbb9;
+border: 1px solid #999999;
+padding: 20px;
+}
+#menu{
+background: #cccccc;
+padding: 5px 15px;
+} */
+/*este menu li hace todos los menus en una sola linea*/
+/* #menu li{
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+    font: bold 20px verdana, sans-serif;
+}
+#seccion{
+ float: left;
+ width: 660px;
+ margin: 220px;
+}
+#columna{
+float: left;
+width: 220px;
+margin: 20px 0px;
+padding: 20px;
+background: #cccccc;
+}
+#pie{
+    clear: both;
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid #999999;
+    -moz-border-radius: 30px 30px 60px 60px;
+    -webkit-border-radius: 30px 30px 60px 60px;
+    border-radius: 30px 30px 60px 60px;
+    -moz-box-shadow:#3c413c 25px 25px;
+    -webkit-box-shadow: #3c413c 25px -25px;
+    box-shadow: #3c413c 25px -25px 10px inset;
+
+
+}
+.principal{
+    display: block;
+    width: 500px;
+    margin: 50px auto;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #999999;
+    background: #dddddd;    
+  outline: 5px GROOVE #000099;
+  outline-offset: 25px;  
+     -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    -moz-box-shado: rgb(150,150,150) 5px 5px 10px;
+    -webkit-box-shadow: rgb(150,150,150) 5px 5px 10px;
+    box-shadow:  rgb(150,150,150) 5px 5px 10px;
+    background: radial-gradient(center,circle,#ffffff 0%, #006699 200%); 
+
+     background: -webkit-linear-gradient(top,#ffffff, #006699);
+    background: -moz-linear-gradient(top,#ffffff, #006699); 
+} */
+
+/* ejemplo por nombre de atributo*/
+/* h1{
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 54px;
+    
+} */
+
+/*ejemplo de Class*/
+/* .prueba{
+    color:chartreuse;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 99px;
+
+} */
+/* .prueva3{
+    color:chocolate;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 55px;
+} */
+
+/* ejemplo de Id
+    */
+/* #prueba2{
+    
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+} */
+
+
+
+.header1{
+    background-color: #000000;
+    color: #3108c5;
+}
+/* menu:nth-child(4){
+    background: #ff0000;
+    
+} */
+
+/* estos estilos son para mi menu */
+
+.menu1{ 
+    font-weight: bold;
+    color: white;
+    border: 2px solid purple;
+    text-align: center;
+    width: 10em;
+    background-color: RoyalBlue; 
+}
+.menu1 ul{ 
+    display: none;
+    list-style: none;
+    margin: 0;
+    padding: 0; 
+}
+.menu1:hover ul{ display: block; }
+.menu1 ul li{ 
+    border-top: 2px solid RoyalBlue;
+    background-color: white;
+    width: 10em;
+    color: black; 
+}
+.menu1 ul li:hover{ background-color: PowderBlue; }
+/* a               { text-decoration: none; } */
